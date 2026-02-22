@@ -114,7 +114,7 @@ def _todo_page(items: list[TodoItem], heading: str) -> list[AnyComponent]:
                                 mode=DisplayMode.datetime,
                             ),
                             DisplayLookup(
-                                field="id",
+                                field="delete",
                                 title="Delete",
                                 on_click=GoToEvent(url="/delete/{id}"),
                             ),
@@ -135,6 +135,7 @@ class TodoRow(BaseModel):
     id: str
     title: str
     created: datetime
+    delete: str = "🗑️"
 
 
 # ── API routes ───────────────────────────────────────────────────────
