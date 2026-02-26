@@ -4,7 +4,7 @@ A pure-Python todo application built with FastUI and FastAPI. Manage tasks with 
 
 ## Live Demo
 
-[![Run on Codely](https://codely.run/python/static/buttons/run-minimal.svg)](https://codely.run/python/projects/fastui-todo-app) [![Edit on Codely](https://codely.run/python/static/buttons/browse-minimal.svg)](https://codely.run/python/projects/fastui-todo-app) [![View Demo](https://codely.run/python/static/buttons/view_demo-minimal.svg)](https://codely.run/python/projects/fastui-todo-app) [![Deploy](https://codely.run/python/static/buttons/deploy-minimal.svg)](https://codely.run/python/projects/fastui-todo-app)
+[![Run on Codely](https://codely.run/python/static/buttons/run-minimal.svg)](https://codely.run/python/project/fastui-todo-app) [![Edit on Codely](https://codely.run/python/static/buttons/browse-minimal.svg)](https://codely.run/python/project/fastui-todo-app) [![View Demo](https://codely.run/python/static/buttons/view_demo-minimal.svg)](https://codely.run/python/project/fastui-todo-app) [![Deploy](https://codely.run/python/static/buttons/deploy-minimal.svg)](https://codely.run/python/project/fastui-todo-app)
 
 ## 1 click Deploy
 
