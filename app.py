@@ -1,5 +1,5 @@
 """
-FastUI Todo App — single-file, Railway-ready.
+FastUI Todo App — single-file.
 """
 
 from __future__ import annotations
